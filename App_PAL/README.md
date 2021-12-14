@@ -1,6 +1,6 @@
-# App_CUE
+# App_PAL
 
-App_CUE is standard application for TWELITE CUE, which is wireless tag based system.
+App_PAL is standard application for TWELITE PAL, which is wireless tag based system.
 
 
 
